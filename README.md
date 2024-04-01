@@ -10,8 +10,12 @@
   - 📫 &nbsp; How to reach me: 993289802@qq.com.
     
 <h3> Languages and Tools: </h3>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)<br/>
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,)](https://skillicons.dev)
+
+[![My Skills](https://skillicons.dev/icons?i=bash,git,github,gitlab,linux,maven,mysql,nginx,postman,redis,vim)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=java,elasticsearch,kafka,spring)](https://skillicons.dev)<br/>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,jquery,npm,pinia,vite,vscode,vue)](https://skillicons.dev)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abenbenisok&theme=github-compact&custom_title=Activity&radius=30&height=250" alt="Lazy">
 
 <!--
 **abenbenisok/abenbenisok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
